@@ -1,6 +1,10 @@
 # Flask Mailroom Application
 
-Running at [http://afternoon-reef-51666.herokuapp.com/donations/](http://afternoon-reef-51666.herokuapp.com/donations/).
+Assignment Note:
+ - I was able to create a new donate page and update the base.jinja2 to add in the url's. also update the main.py with new function for donate. 
+ - But was not able to retrieve the existing data in form to save new donation
+
+
 
 ## Your Task
 
