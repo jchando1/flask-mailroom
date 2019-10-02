@@ -17,7 +17,7 @@ def all():
     return render_template('donations.jinja2', donations=donations)
 
 
-@app.route('/donate', methods=['GET', 'POST'])
+@app.route('/donate/', methods=['GET', 'POST'])
 def create():
 
     if request.method == 'POST':
